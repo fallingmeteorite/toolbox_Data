@@ -1,0 +1,1 @@
+Sharpened edges(边缘清晰化)
